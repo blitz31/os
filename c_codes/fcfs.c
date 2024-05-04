@@ -9,9 +9,9 @@ void main(){
 	for(i=0; i<n; i++)
 	{
 		pid[i] = i;
-		printf("Enter arrival time of process P%d = ",i+1);
+		printf("Enter arrival time of process P%d = ",i);
 		scanf("%d",&at[i]);
-		printf("Enter burst time of process P%d = ",i+1);
+		printf("Enter burst time of process P%d = ",i);
 		scanf("%d",&bt[i]);
 	}
 	
