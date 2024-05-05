@@ -68,11 +68,11 @@ void sort_wt(){
                 			pid[j] = pid[j + 1];
                 			pid[j + 1] = temp;
 
-               			temp = at[j];
+               				temp = at[j];
                 			at[j] = at[j + 1];
                 			at[j + 1] = temp;
 
-               			temp = bt[j];
+               				temp = bt[j];
                 			bt[j] = bt[j + 1];
                 			bt[j + 1] = temp;
                 			
