@@ -1,3 +1,5 @@
+//sjf with no arrival time
+
 #include <stdio.h>
 #define MAX 50
 void main(){
